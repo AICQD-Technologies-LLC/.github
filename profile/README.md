@@ -4,5 +4,5 @@
 
 At AICQD Technologies, we are committed to leveraging machine 
 learning techniques to drive innovation for the public health sector. Our solutions
-are designed to tailor to the individual. 
+are designed with the individual in mind. 
 
